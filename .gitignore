@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+check_output/
+# a modellfájlok licence korlátozhatja a terjesztést: ne kerüljenek a tárolóba
+models/
+*.pt
+*.onnx
+
+# telepítők és kiadási csomagok (a GitHub Releases-be valók, nem a tárolóba)
+dist/
+# saját Python környezet és régi verziók
+venv/
+old/

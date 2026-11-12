@@ -1,0 +1,3 @@
+# A kamerás dobásfelismeréshez és a modell betanításához kell (nagy csomag: a PyTorch-ot is telepíti).
+# Az indító scriptek külön telepítik: ha ez nem sikerül, a program akkor is elindul, csak a dobásfelismerés nem érhető el.
+ultralytics>=8.2

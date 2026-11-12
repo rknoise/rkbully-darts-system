@@ -1,0 +1,8 @@
+"""A program neve, verziója és készítője egy helyen (fejléc, ablakcímek, Névjegy, telepítő)."""
+APP_NAME = "RKBully Darts System"
+SHORT_NAME = "RKBully"
+SUBTITLE = "DARTS SYSTEM"
+AUTHOR = "RKNOISE"
+VERSION = "1.0"
+GITHUB_URL = "https://github.com/rknoise"
+TAGLINE = "Darts · Fun · Together"

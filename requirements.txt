@@ -1,0 +1,8 @@
+PySide6-Essentials>=6.6
+PySide6-Addons>=6.6
+opencv-python>=4.8
+numpy>=1.24
+
+# A kamerás dobásfelismeréshez (ultralytics, nagy csomag) a requirements-felismeres.txt kell: az indító scriptek azt is telepítik.
+# (A PySide6-Addons a hangokhoz/felolvasáshoz kell: QtMultimedia, QtTextToSpeech. A teljes PySide6 meta-csomagot szándékosan nem
+# kérjük: az a ~130 MB-os WebEngine-t is behúzná, amit a program nem használ.)
